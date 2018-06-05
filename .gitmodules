@@ -19,3 +19,6 @@
 [submodule "implementations/SHA3IUF"]
 	path = c-implementations/SHA3IUF
 	url = https://github.com/brainhub/SHA3IUF.git
+[submodule "c-implementations/SHA-Intrinsics"]
+	path = c-implementations/SHA-Intrinsics
+	url = https://github.com/noloader/SHA-Intrinsics.git
