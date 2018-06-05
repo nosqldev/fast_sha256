@@ -1,0 +1,21 @@
+[submodule "implementations/sha3-256"]
+	path = implementations/sha3-256
+	url = https://github.com/shady33/sha3-256.git
+[submodule "implementations/cgminer"]
+	path = implementations/cgminer
+	url = https://github.com/ckolivas/cgminer.git
+[submodule "implementations/pshep-cgminer"]
+	path = implementations/pshep-cgminer
+	url = https://github.com/pshep/cgminer.git
+[submodule "implementations/nettle"]
+	path = implementations/nettle
+	url = https://git.lysator.liu.se/nettle/nettle.git
+[submodule "implementations/tiny_sha3"]
+	path = implementations/tiny_sha3
+	url = https://github.com/mjosaarinen/tiny_sha3.git
+[submodule "implementations/RHash"]
+	path = implementations/RHash
+	url = https://github.com/rhash/RHash.git
+[submodule "implementations/SHA3IUF"]
+	path = implementations/SHA3IUF
+	url = https://github.com/brainhub/SHA3IUF.git
