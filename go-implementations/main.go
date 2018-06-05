@@ -14,6 +14,7 @@ func DoubleHashB(b []byte) []byte {
 }
 
 func main() {
-    hash_sha_256 := DoubleHashB([]byte("Hello, world"))
+    s := "abc"
+    hash_sha_256 := DoubleHashB([]byte(s))
     fmt.Printf("%x\n", hash_sha_256)
 }
