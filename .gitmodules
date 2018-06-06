@@ -22,3 +22,6 @@
 [submodule "c-implementations/SHA-Intrinsics"]
 	path = c-implementations/SHA-Intrinsics
 	url = https://github.com/noloader/SHA-Intrinsics.git
+[submodule "c-implementations/sha256-sse"]
+	path = c-implementations/sha256-sse
+	url = https://github.com/wereHamster/sha256-sse.git
